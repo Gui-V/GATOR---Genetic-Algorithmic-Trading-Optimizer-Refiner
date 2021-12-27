@@ -1,0 +1,1 @@
+# GATOR---Genetic-Algorithmic-Trading-Optimizer-Refiner
