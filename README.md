@@ -1,1 +1,1 @@
-# GATOR---Genetic-Algorithmic-Trading-Optimizer-Refiner
+# PRIVATE - A Genetic Algorithmic Trading Optimizer Refiner (GATOR)
